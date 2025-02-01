@@ -1,1 +1,1 @@
-# Termux-Flipper-zero-
+# Termux-Flipper-zero
